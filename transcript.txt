@@ -1,236 +1,51 @@
-1
-00:00:00,300 -- 00:00:01,933
-This is a regular water faucet,
+Fitness and mental health apps are used by many people, but not many apps incorporate both sides. 
 
-2
-00:00:01,933 -- 00:00:02,766
-it's expensive,
+Fitform is an application that takes into account both your mental and physical well being. 
 
-3
-00:00:02,766 -- 00:00:04,966
-low quality and doesn't track water consumption.
+The physical portion of the app includes, unique push notifications, preference-based workouts, and the integration of AI to assist in workout development. 
 
-4
-00:00:05,166 -- 00:00:07,633
-Our product is a new and improved faucet that contains
+While the mental health portion tracks the user's sleep schedule and allows them to write secure and private journals
 
-5
-00:00:07,633 -- 00:00:09,700
-many more filters and tracks water consumption.
 
-6
-00:00:09,700 -- 00:00:11,433
-by tracking users water consumption
+The manufactured ecosystem that the team has selected is Recreation in regards to physical and mental health.
 
-7
-00:00:11,433 -- 00:00:13,766
-we hold weekly competitions that allow
+This ecosystem is designed to target the well-being of everyone within it.
 
-8
-00:00:13,833 -- 00:00:16,000
-users to get discounts on eco friendly products.
+Recreation refers to activities and practices that contribute to overall well-being, encompassing physical fitness, mental relaxation, and stress reduction. 
 
-9
-00:00:16,933 -- 00:00:19,433
-The manufactured ecosystem that our fun theory
+The ecosystem aims to create a seamless and integrated experience for individuals seeking a comprehensive approach to their health.
 
-10
-00:00:19,433 -- 00:00:21,066
-supports is water regulation.
+This is Emily the 28 year old accountant
 
-11
-00:00:21,066 -- 00:00:22,333
-The amount of water people
+Emily is our primary persona, she's a millennial who's very focused on her career, but also really values her physical and mental health
 
-12
-00:00:22,333 -- 00:00:25,133
-consume every day is unnecessary and wasteful.
+The app has taken her into consideration by providing a smooth and responsibe interface which allows Emily to effortlessly switch from work to self care. 
 
-13
-00:00:25,633 -- 00:00:27,566
-Water regulation keeps track of how much water
+Additionally, push notification reminders were added to cater to her millennial responsiveness.
 
-14
-00:00:27,566 -- 00:00:28,233
-everyone gets
 
-15
-00:00:28,233 -- 00:00:30,866
-and it helps people not over consume water to the point
+This is Jason he is a 32-year-old fitness trainer.
 
-16
-00:00:30,866 -- 00:00:31,933
-where it's unstable.
+Jason is focused on maintaining peak physical fitness and enhancing his knowledge in the field. 
 
-17
-00:00:32,233 -- 00:00:34,500
-Now that we've discussed the manufactured ecosystem
+Jason is considered a secondary persona because he represents another user segment with different priorities, goals, and challenges.
 
-18
-00:00:34,500 -- 00:00:37,100
-let's go into depth about how exactly our fun theory
+The app has taken him into consideration by, allowing him to have access to mental and physical health information in one app allowing him to further his knowledge in an easy and efficient way.
 
-19
-00:00:37,100 -- 00:00:37,800
-design works.
+negitive persona.
 
-20
-00:00:38,066 -- 00:00:39,500
-Our fun theory idea.
+Andrew is a 35 year old high school graduate.
 
-21
-00:00:39,766 -- 00:00:42,500
-The fun theory idea behind our redesigned water faucet
+Working in construction industry for more than a decade.
 
-22
-00:00:42,500 -- 00:00:43,033
-is to utilize
+His main goal is to support his family.
 
-23
-00:00:43,733 -- 00:00:45,633
-human competitiveness through game like feature,
+and he goes to the gym occasionally if he has time.
 
-24
-00:00:45,733 -- 00:00:47,366
-fun interactions,
+Why Andrews consider a negative persona.
 
-25
-00:00:47,366 -- 00:00:48,400
-and keeping them aware
+Andrews particular of new technologies and prefers.
 
-26
-00:00:48,400 -- 00:00:50,866
-through presenting real time water usage to
+Conventional approaches to health management.
 
-27
-00:00:50,866 -- 00:00:52,533
-encourage water conservation.
-
-28
-00:00:53,100 -- 00:00:54,333
-This is accomplished through a
-
-29
-00:00:54,333 -- 00:00:55,500
-combination of technology,
-
-30
-00:00:55,933 -- 00:00:56,800
-data tracking
-
-31
-00:00:56,800 -- 00:00:57,833
-and rewards.
-
-32
-00:00:57,966 -- 00:00:59,366
-The intended outcome of the redesign
-
-33
-00:00:59,700 -- 00:01:02,300
-is to make people aware of their water consumption
-
-34
-00:01:02,366 -- 00:01:04,566
-and encourage them to conserve more water
-
-35
-00:01:04,566 -- 00:01:07,200
-using the tools provided by the Smart faucet
-
-36
-00:01:07,200 -- 00:01:08,666
-and its interactive app.
-
-37
-00:01:09,166 -- 00:01:11,166
-The shortcomings of the original design.
-
-38
-00:01:11,466 -- 00:01:12,866
-The first was lack of awareness.
-
-39
-00:01:12,866 -- 00:01:15,366
-The original faucet design is not providing users with
-
-40
-00:01:15,366 -- 00:01:18,033
-real time information about their water consumption,
-
-41
-00:01:18,100 -- 00:01:20,400
-making them unaware of their usage patterns.
-
-42
-00:01:20,800 -- 00:01:23,566
-There's no incentives for conservation.
-
-43
-00:01:23,566 -- 00:01:25,866
-Without any form of incentive like rewards,
-
-44
-00:01:25,866 -- 00:01:28,300
-users may not have felt motivated to actively
-
-45
-00:01:28,300 -- 00:01:29,700
-reduce water consumption.
-
-46
-00:01:30,000 -- 00:01:31,200
-Our Smart Faucet
-
-47
-00:01:31,200 -- 00:01:32,700
-Real Time Data tracking.
-
-48
-00:01:32,700 -- 00:01:34,966
-The incorporation of a smart faucet
-
-49
-00:01:34,966 -- 00:01:37,533
-and an interactive app provides users with real time
-
-50
-00:01:37,533 -- 00:01:39,666
-data on their water consumption.
-
-51
-00:01:39,733 -- 00:01:40,500
-This addresses
-
-52
-00:01:40,500 -- 00:01:42,466
-the lack of awareness in the original design
-
-53
-00:01:42,466 -- 00:01:46,300
-by making users more conscious of their usage habits.
-
-54
-00:01:46,333 -- 00:01:48,166
-Gamification and rewards.
-
-55
-00:01:48,166 -- 00:01:49,966
-Introducing a competitive element
-
-56
-00:01:49,966 -- 00:01:51,533
-which appeals to the
-
-57
-00:01:51,533 -- 00:01:54,333
-human nature of competitiveness and reward system
-
-58
-00:01:54,333 -- 00:01:55,466
-through the app
-
-59
-00:01:55,666 -- 00:01:58,366
-encourages users to actively reduce water consumption.
-
+Thus making it difficult to introduce FItForm to him.
