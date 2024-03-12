@@ -1,0 +1,236 @@
+1
+00:00:00,300 -- 00:00:01,933
+This is a regular water faucet,
+
+2
+00:00:01,933 -- 00:00:02,766
+it's expensive,
+
+3
+00:00:02,766 -- 00:00:04,966
+low quality and doesn't track water consumption.
+
+4
+00:00:05,166 -- 00:00:07,633
+Our product is a new and improved faucet that contains
+
+5
+00:00:07,633 -- 00:00:09,700
+many more filters and tracks water consumption.
+
+6
+00:00:09,700 -- 00:00:11,433
+by tracking users water consumption
+
+7
+00:00:11,433 -- 00:00:13,766
+we hold weekly competitions that allow
+
+8
+00:00:13,833 -- 00:00:16,000
+users to get discounts on eco friendly products.
+
+9
+00:00:16,933 -- 00:00:19,433
+The manufactured ecosystem that our fun theory
+
+10
+00:00:19,433 -- 00:00:21,066
+supports is water regulation.
+
+11
+00:00:21,066 -- 00:00:22,333
+The amount of water people
+
+12
+00:00:22,333 -- 00:00:25,133
+consume every day is unnecessary and wasteful.
+
+13
+00:00:25,633 -- 00:00:27,566
+Water regulation keeps track of how much water
+
+14
+00:00:27,566 -- 00:00:28,233
+everyone gets
+
+15
+00:00:28,233 -- 00:00:30,866
+and it helps people not over consume water to the point
+
+16
+00:00:30,866 -- 00:00:31,933
+where it's unstable.
+
+17
+00:00:32,233 -- 00:00:34,500
+Now that we've discussed the manufactured ecosystem
+
+18
+00:00:34,500 -- 00:00:37,100
+let's go into depth about how exactly our fun theory
+
+19
+00:00:37,100 -- 00:00:37,800
+design works.
+
+20
+00:00:38,066 -- 00:00:39,500
+Our fun theory idea.
+
+21
+00:00:39,766 -- 00:00:42,500
+The fun theory idea behind our redesigned water faucet
+
+22
+00:00:42,500 -- 00:00:43,033
+is to utilize
+
+23
+00:00:43,733 -- 00:00:45,633
+human competitiveness through game like feature,
+
+24
+00:00:45,733 -- 00:00:47,366
+fun interactions,
+
+25
+00:00:47,366 -- 00:00:48,400
+and keeping them aware
+
+26
+00:00:48,400 -- 00:00:50,866
+through presenting real time water usage to
+
+27
+00:00:50,866 -- 00:00:52,533
+encourage water conservation.
+
+28
+00:00:53,100 -- 00:00:54,333
+This is accomplished through a
+
+29
+00:00:54,333 -- 00:00:55,500
+combination of technology,
+
+30
+00:00:55,933 -- 00:00:56,800
+data tracking
+
+31
+00:00:56,800 -- 00:00:57,833
+and rewards.
+
+32
+00:00:57,966 -- 00:00:59,366
+The intended outcome of the redesign
+
+33
+00:00:59,700 -- 00:01:02,300
+is to make people aware of their water consumption
+
+34
+00:01:02,366 -- 00:01:04,566
+and encourage them to conserve more water
+
+35
+00:01:04,566 -- 00:01:07,200
+using the tools provided by the Smart faucet
+
+36
+00:01:07,200 -- 00:01:08,666
+and its interactive app.
+
+37
+00:01:09,166 -- 00:01:11,166
+The shortcomings of the original design.
+
+38
+00:01:11,466 -- 00:01:12,866
+The first was lack of awareness.
+
+39
+00:01:12,866 -- 00:01:15,366
+The original faucet design is not providing users with
+
+40
+00:01:15,366 -- 00:01:18,033
+real time information about their water consumption,
+
+41
+00:01:18,100 -- 00:01:20,400
+making them unaware of their usage patterns.
+
+42
+00:01:20,800 -- 00:01:23,566
+There's no incentives for conservation.
+
+43
+00:01:23,566 -- 00:01:25,866
+Without any form of incentive like rewards,
+
+44
+00:01:25,866 -- 00:01:28,300
+users may not have felt motivated to actively
+
+45
+00:01:28,300 -- 00:01:29,700
+reduce water consumption.
+
+46
+00:01:30,000 -- 00:01:31,200
+Our Smart Faucet
+
+47
+00:01:31,200 -- 00:01:32,700
+Real Time Data tracking.
+
+48
+00:01:32,700 -- 00:01:34,966
+The incorporation of a smart faucet
+
+49
+00:01:34,966 -- 00:01:37,533
+and an interactive app provides users with real time
+
+50
+00:01:37,533 -- 00:01:39,666
+data on their water consumption.
+
+51
+00:01:39,733 -- 00:01:40,500
+This addresses
+
+52
+00:01:40,500 -- 00:01:42,466
+the lack of awareness in the original design
+
+53
+00:01:42,466 -- 00:01:46,300
+by making users more conscious of their usage habits.
+
+54
+00:01:46,333 -- 00:01:48,166
+Gamification and rewards.
+
+55
+00:01:48,166 -- 00:01:49,966
+Introducing a competitive element
+
+56
+00:01:49,966 -- 00:01:51,533
+which appeals to the
+
+57
+00:01:51,533 -- 00:01:54,333
+human nature of competitiveness and reward system
+
+58
+00:01:54,333 -- 00:01:55,466
+through the app
+
+59
+00:01:55,666 -- 00:01:58,366
+encourages users to actively reduce water consumption.
+
